@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SDA_Serie9_COR">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SDA_Serie9_COR.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
