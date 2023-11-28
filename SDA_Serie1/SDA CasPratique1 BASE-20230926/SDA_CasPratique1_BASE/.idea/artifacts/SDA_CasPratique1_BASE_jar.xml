@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SDA-CasPratique1_BASE:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SDA_CasPratique1_BASE_jar</output-path>
+    <root id="archive" name="SDA-CasPratique1_BASE.jar">
+      <element id="module-output" name="SDA-CasPratique1_BASE" />
+    </root>
+  </artifact>
+</component>
